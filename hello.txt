@@ -1,3 +1,5 @@
 Hello, GitHub!
 This is a new branch!
 Hello from local Git!
+vscode is awesome!
+This is a new branch!
